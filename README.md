@@ -1,6 +1,6 @@
 # React Weather App - With A 3D Globe
 
-![image](<Screenshot(64).png>)
+![image](public/SnapShot.png)
 
 ### APIs Used
 
